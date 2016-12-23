@@ -6,7 +6,7 @@
 - Une fois téléchargée, extraire l'archive sur son ordinateur
 - Ouvrir le ficher **index.html** de l'archive dans son navigateur internet
 
-## Test rendu mobile/tablettes
+## Test rendu mobiles / tablettes
 
 - Utiliser le navigateur [Google Chrome](https://www.google.fr/chrome/browser/desktop/)
 - Ouvrir le ficher **index.html** dans Google Chrome
