@@ -8,6 +8,6 @@
 
 ## Test rendu mobile/tablettes
 
-- Utiliser (Google Chrome)[https://www.google.fr/chrome/browser/desktop/]
+- Utiliser le navigateur [Google Chrome](https://www.google.fr/chrome/browser/desktop/)
 - Ouvrir le ficher **index.html** dans Google Chrome
 - Puis suivre ce [tutoriel pour tester mode mobile](http://forums.cnetfrance.fr/topic/1239105-comment-voir-la-version-mobile-d-un-site-web-avec-chrome/)
