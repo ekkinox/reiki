@@ -4,7 +4,7 @@
 
 Prototype du site responsive (*auto adaptatif pc / mobile / tablette*) Reiki Massages.
 
-Le contenu est fictif / à adapter, c'est un prototype.
+Le contenu est **fictif / à adapter**, c'est un prototype.
 
 ## Installation (locale, pour tests)
 
