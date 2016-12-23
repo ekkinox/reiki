@@ -1,4 +1,4 @@
-# Site Reiki Massages
+# Site Reiki Massages - Prototype
 
 ## A propos
 
