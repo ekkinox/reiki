@@ -2,7 +2,7 @@
 
 ## A propos
 
-Prototype du site responsible (auto adaptatif pc / mobile / tablette) Reiki.
+Prototype du site responsive (*auto adaptatif pc / mobile / tablette*) Reiki Massages.
 
 ## Installation (locale, pour tests)
 
