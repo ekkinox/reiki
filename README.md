@@ -1,5 +1,9 @@
 # Site Reiki massages
 
+## A propos
+
+Prototype du site responsible (auto adaptatif pc / mobile / tablette) Reiki.
+
 ## Installation (locale, pour tests)
 
 - Télécharger l'archive zip sur cette page (*bouton "Clone or download" > "Download Zip"*)
