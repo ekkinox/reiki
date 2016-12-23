@@ -1,4 +1,4 @@
-# Site Reiki massages
+# Site Reiki Massages
 
 ## A propos
 
