@@ -6,7 +6,7 @@ Prototype du site responsive (*auto adaptatif pc / mobile / tablette*) Reiki Mas
 
 ## Installation (locale, pour tests)
 
-- Télécharger l'archive zip sur cette page (*bouton "Clone or download" > "Download Zip"*)
+- Télécharger l'archive zip sur cette page (*bouton vert "Clone or download" > "Download Zip"*)
 - Une fois téléchargée, extraire l'archive sur son ordinateur
 - Ouvrir le ficher **index.html** de l'archive dans son navigateur internet
 
