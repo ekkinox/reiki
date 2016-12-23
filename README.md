@@ -20,9 +20,9 @@ Le contenu est fictif / à adapter, c'est un prototype.
 
 ## Tests compatibilité
 
-- Chrome: ok
-- Firefox: ok
-- Edge: ok
-- Chrome android: ok
-- iPhone: n/a (pas en possession)
-- Safari: n/a (pas en possession)
+- Chrome: **ok**
+- Firefox: **ok**
+- Edge: **ok**
+- Chrome android: **ok**
+- iPhone: **n/a** (pas en possession)
+- Safari: **n/a** (pas en possession)
